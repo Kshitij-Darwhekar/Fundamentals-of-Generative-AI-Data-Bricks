@@ -1,4 +1,4 @@
-Generative AI Fundamentals by Data Bricks
+# Generative AI Fundamentals by Data Bricks
 
 
 ### Link: https://customer-academy.databricks.com/learn/course/1811/generative-ai-fundamentals-accreditation?generated_by=735596&hash=d637aacd6f56449f5ad7135a56da7492a76527e3 
