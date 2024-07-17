@@ -1,7 +1,7 @@
 # Fundamentals of Generative AI Data Bricks
 
 
-## Link: https://customer-academy.databricks.com/learn/course/1811/generative-ai-fundamentals-accreditation?generated_by=735596&hash=d637aacd6f56449f5ad7135a56da7492a76527e3 
+### Link: https://customer-academy.databricks.com/learn/course/1811/generative-ai-fundamentals-accreditation?generated_by=735596&hash=d637aacd6f56449f5ad7135a56da7492a76527e3 
 
 ## Accredition
 ![image](https://github.com/user-attachments/assets/2e6d4f81-91fb-461a-bebc-de63f705701e)
