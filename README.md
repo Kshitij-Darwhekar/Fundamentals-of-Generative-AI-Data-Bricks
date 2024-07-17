@@ -11,4 +11,4 @@
 <br/>
 
 ## Quiz Score
-![Quiz Score]([https://github.com/Kshitij-Darwhekar/Fundamentals-of-Generative-AI-Data-Bricks/blob/cb1e0a6ed71038de05edf342f983a959f2456be6/Quiz%20Score.png](https://github.com/Kshitij-Darwhekar/Generatve-AI-Fundamentals-by-Data-Bricks/blob/7e2117a9e78cfd64c8da46f763f18ed194e0a3c8/Quiz%20Score.png))
+![Quiz Score](https://github.com/Kshitij-Darwhekar/Generatve-AI-Fundamentals-by-Data-Bricks/blob/7e2117a9e78cfd64c8da46f763f18ed194e0a3c8/Quiz%20Score.png)
