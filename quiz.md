@@ -1,5 +1,5 @@
 
-### Single choice
+Single choice
 1) In Large Language Models (LLMs), the input text is divided into pieces and converted into numeric values. What is the term used to describe each of these input chunks?
 
 - [X] Token
@@ -7,7 +7,7 @@
 - [ ] Decoding
 - [ ] Embedding Function
 
-### Multiple choice
+Multiple choice
 2) Which of these two Databricks Lakehouse AI features are used in the production phase of Generative AI applications? Choose 2 options.
 
 - [X] Lakehouse Monitoring
@@ -15,7 +15,7 @@
 - [ ] Feature Serving
 - [ ] Model Serving
 
-### Multiple choice
+Multiple choice
 3) Which two Large Language Models (LLMs) are open-source and can be used for commercial purposes? Choose 2 options.
 
 - [ ] Meta’s LLaMA (v1)
@@ -23,7 +23,7 @@
 - [X] Databricks’ Dolly
 - [X] MosaicML’s MPT
 
-### Single choice
+Single choice
 4) What is the correct order of fields of Artificial Intelligence (AI) from general to specific?
 
 - [ ] Machine Learning > Deep Learning > Artificial Intelligence
@@ -31,7 +31,7 @@
 - [ ] Deep Learning > Generative AI > Machine Learning
 - [ ] Artificial Intelligence > Generative AI > Deep Learning
 
-### Multiple choice
+Multiple choice
 5) Besides its great potential benefits, Generative AI brings new risks and challenges for businesses and society. Which two statements are correct in terms of the legal risks and challenges of Generative AI? Choose 2 options.
 
 - [X] AI systems might be used for generating harmful content such as personalized fraud messages and malicious code.
@@ -39,7 +39,7 @@
 - [ ] Any content generated with AI can be freely used without worrying about intellectual property rights.
 - [ ] AI, being an emerging technology, is currently not subject to existing regulations or newly proposed regulations.
 
-### Single choice
+Single choice
 6) Generative AI is driving significant transformations across multiple industries. What can be identified as a distinct competitive advantage for businesses in the field of AI?
 
 - [ ] Proficiency in model development techniques.
@@ -47,7 +47,7 @@
 - [X] Access to high-quality open-source models.
 - [ ] Unlocking the value of proprietary data within an organization.
 
-### Single choice
+Single choice
 7) A company uses a pre-trained AI model and further trains it with their own question-answer dataset. Which term is used to define this process?
 
 - [ ] Sentiment Analysis
@@ -55,7 +55,7 @@
 - [X] Fine-tuning
 - [ ] Content Generation
 
-### Single choice
+Single choice
 8) A user intentionally crafts instructions to manipulate the normal behavior of an AI model in an attempt to extract confidential information from the model. What is the term used to describe this security issue?
 
 - [ ] Bias
@@ -63,7 +63,7 @@
 - [X] Prompt Injection
 - [ ] Intellectual property violation
 
-### Multiple choice
+Multiple choice
 9) AI is considered to have both positive and negative impact on society in the future. Which three arguments are true in terms of AI’s future impact? Choose 3 options.
 
 - [X] AI will positively impact the workforce by increasing efficiency and productivity.
@@ -71,7 +71,7 @@
 - [X] AI automation may lead to job losses or displacement of some workers.
 - [ ] AI isn’t expected to bring any new privacy and security concerns.
 
-### Multiple choice
+Multiple choice
 10) Databricks Lakehouse AI provides one unified toolkit for building and serving AI models. This unified platform has many integrated AI capabilities. Which statement correctly describes the capability and functionality of Databricks Lakehouse AI feature? Choose 2 options.
 
 - [ ] Lakehouse Monitoring enables the tracking of AI model logs, ensuring continuous improvement and optimization.
