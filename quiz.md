@@ -7,6 +7,7 @@
 - [ ] Decoding
 - [ ] Embedding Function
 
+<br/>
 
 2) Which of these two Databricks Lakehouse AI features are used in the production phase of Generative AI applications? Choose 2 options.
 
