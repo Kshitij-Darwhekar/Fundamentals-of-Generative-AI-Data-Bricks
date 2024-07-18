@@ -14,5 +14,5 @@
 <br/>
 
 
-## Accredition
-![image](https://github.com/user-attachments/assets/2e6d4f81-91fb-461a-bebc-de63f705701e)
+## Certificate
+![Certificate](https://github.com/user-attachments/assets/2e6d4f81-91fb-461a-bebc-de63f705701e)
