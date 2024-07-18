@@ -15,4 +15,4 @@
 
 
 ## Certificate
-![Certificate](https://github.com/user-attachments/assets/2e6d4f81-91fb-461a-bebc-de63f705701e)
+![Certificate](https://github.com/Kshitij-Darwhekar/Generatve-AI-Fundamentals-by-Data-Bricks/blob/b70f1f379781622ea720f7f636c6c1357013405e/Certificate.pdf)
